@@ -1,5 +1,9 @@
 {
     "main": "app.js",
+      "scripts": {
+    "start": "start",
+    "build": "build"
+  },
     "dependencies": {
         "express": "^4.17.1",
         "express-handlebars": "~3.0.0",
