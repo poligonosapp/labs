@@ -1,3 +1,4 @@
+var demo = require('demo');
 var express = require('express');
 var expressHandlebars = require('express-handlebars');
 var http = require('http');
