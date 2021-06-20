@@ -1,0 +1,6 @@
+{
+  "name": "poligonosapp-api-user",
+  "integrations": {},
+  "type": "angular",
+  "webRoot":"index.html"
+}
